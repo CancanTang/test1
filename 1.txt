@@ -1,0 +1,4 @@
+AvaloniaILSpy
+ShadowsocksR-Windows
+Abstract.DataStructures.Algorithms
+XPlace-ProjectNotifier
